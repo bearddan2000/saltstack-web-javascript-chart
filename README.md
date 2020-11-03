@@ -1,7 +1,7 @@
 # saltstack-web-javascript-chart
 
 ## Description
-A small project to deminstrate using
+A small project to demonstrate using
 client side scripting for metrics. Salt was used to build the apache server.
 
 ## Tech stack
